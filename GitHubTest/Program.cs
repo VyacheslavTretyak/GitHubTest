@@ -11,8 +11,8 @@ namespace GitHubTest
 		static void Main(string[] args)
 		{
 			Console.WriteLine("zzzzz!!!");
-			Console.WriteLine("это я изменил");
-			Console.WriteLine("Lock");
+			Console.WriteLine("---");
+			Console.WriteLine("---");
 			// 4555555aa
 			// hfghdhdhdfhfgh
 			// 5+987/9
