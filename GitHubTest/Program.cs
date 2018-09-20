@@ -11,8 +11,8 @@ namespace GitHubTest
 		static void Main(string[] args)
 		{
 			Console.WriteLine("zzzzz!!!");
-			Console.WriteLine("---");
-			Console.WriteLine("---");
+			Console.WriteLine("--1-");
+			Console.WriteLine("---1");
 			// 4555555aa
 			// hfghdhdhdfhfgh
 			// 5+987/9
