@@ -10,7 +10,7 @@ namespace GitHubTest
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello!!!");
+			Console.WriteLine("это я изменил");
 			// 4555555aa
 			// hfghdhdhdfhfgh
 			// 5+987/9
