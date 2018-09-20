@@ -12,6 +12,7 @@ namespace GitHubTest
 		{
 			Console.WriteLine("zzzzz!!!");
 			Console.WriteLine("это я изменил");
+			Console.WriteLine("Lock");
 			// 4555555aa
 			// hfghdhdhdfhfgh
 			// 5+987/9
